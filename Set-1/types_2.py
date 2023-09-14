@@ -1,3 +1,9 @@
+#2. Create variables of each data type (integer, float, string, boolean, list, tuple, dictionary, set) and print their types and values.
+#    - *Input*: None
+#    - *Output*: "Type of variable1: <class 'int'>, value: 10..."
+
+
+
 integer = 1
 float = 1.2
 string = "Ansh"
